@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FinalProject-New
 A sleek and modern portfolio template built with Angular. Showcase your work and skills.
 
@@ -15,3 +16,6 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 ## Further help
 To get more help, check out the [Angular CLI Overview](https://angular.io/cli).
+=======
+# portfolio-builder
+>>>>>>> origin/ashrqat
